@@ -1,9 +1,9 @@
 fx_version 'adamant'
 
 game 'gta5'
-
-author 'edit faLq'
-description 'ral components for ESX Framework'
+version '1.1.0'
+author 'faLq'
+description 'ESX Framework'
 
 
 server_script "server.lua"
